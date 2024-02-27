@@ -1,0 +1,14 @@
+D:\bt\da\TuanPC\Data\bin\Debug\Data.dll.config
+D:\bt\da\TuanPC\Data\bin\Debug\Data.dll
+D:\bt\da\TuanPC\Data\bin\Debug\Data.pdb
+D:\bt\da\TuanPC\Data\bin\Debug\Common.dll
+D:\bt\da\TuanPC\Data\bin\Debug\EntityFramework.dll
+D:\bt\da\TuanPC\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\bt\da\TuanPC\Data\bin\Debug\Common.pdb
+D:\bt\da\TuanPC\Data\bin\Debug\EntityFramework.xml
+D:\bt\da\TuanPC\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\bt\da\TuanPC\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\bt\da\TuanPC\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\bt\da\TuanPC\Data\obj\Debug\Data.csproj.CopyComplete
+D:\bt\da\TuanPC\Data\obj\Debug\Data.dll
+D:\bt\da\TuanPC\Data\obj\Debug\Data.pdb

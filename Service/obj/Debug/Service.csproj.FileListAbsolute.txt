@@ -1,0 +1,15 @@
+D:\bt\da\TuanPC\Service\bin\Debug\Service.dll
+D:\bt\da\TuanPC\Service\bin\Debug\Service.pdb
+D:\bt\da\TuanPC\Service\bin\Debug\Common.dll
+D:\bt\da\TuanPC\Service\bin\Debug\Data.dll
+D:\bt\da\TuanPC\Service\bin\Debug\Model.dll
+D:\bt\da\TuanPC\Service\bin\Debug\Common.pdb
+D:\bt\da\TuanPC\Service\bin\Debug\Data.pdb
+D:\bt\da\TuanPC\Service\bin\Debug\Data.dll.config
+D:\bt\da\TuanPC\Service\bin\Debug\Model.pdb
+D:\bt\da\TuanPC\Service\bin\Debug\Model.dll.config
+D:\bt\da\TuanPC\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\bt\da\TuanPC\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\bt\da\TuanPC\Service\obj\Debug\Service.csproj.CopyComplete
+D:\bt\da\TuanPC\Service\obj\Debug\Service.dll
+D:\bt\da\TuanPC\Service\obj\Debug\Service.pdb

@@ -1,0 +1,16 @@
+D:\bt\da\TuanPC\Model\bin\Debug\Model.dll.config
+D:\bt\da\TuanPC\Model\bin\Debug\Model.dll
+D:\bt\da\TuanPC\Model\bin\Debug\Model.pdb
+D:\bt\da\TuanPC\Model\bin\Debug\EntityFramework.dll
+D:\bt\da\TuanPC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\bt\da\TuanPC\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\bt\da\TuanPC\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\bt\da\TuanPC\Model\bin\Debug\EntityFramework.xml
+D:\bt\da\TuanPC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\bt\da\TuanPC\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\bt\da\TuanPC\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\bt\da\TuanPC\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\bt\da\TuanPC\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\bt\da\TuanPC\Model\obj\Debug\Model.csproj.CopyComplete
+D:\bt\da\TuanPC\Model\obj\Debug\Model.dll
+D:\bt\da\TuanPC\Model\obj\Debug\Model.pdb
